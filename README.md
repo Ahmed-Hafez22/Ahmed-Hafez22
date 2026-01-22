@@ -49,8 +49,6 @@ I'm at the very beginning of my journey into data engineering. I'm currently foc
 
 Here are some of the things I’ve worked on:
 
-## 📌 Featured Projects
-
 | Project | Description | Tech |
 |--------|------------|------|
 | [Egyptian Society for Envirnomental Sciences Database](https://github.com/Ahmed-Hafez22/Egyptian-Society-for-Environmental-Sciences-Database.git) | A Database to store an organization members. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
