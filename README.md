@@ -62,8 +62,8 @@ Here are some of the things I’ve worked on:
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: *add your link*
-* 📧 Email: *add your email*
+* 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ahmed-hafez-78198a391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* 📧 Email: ahmedmohamedhafez715@gmail.com
 
 ---
 
