@@ -49,14 +49,12 @@ I'm at the very beginning of my journey into data engineering. I'm currently foc
 
 Here are some of the things I’ve worked on:
 
-* 🔹 **Student Attendance System** – A system which track student attendance through their IDs and help them to log their attendance using barcodes
-* 🔹 **Egyptian Society for Envirnomental Sciences Database** – A small local database project that saves the members of an organization
+## 📌 Featured Projects
 
-*(Pin your best repositories to show them here)*
-
----
-
-## 📊 GitHub Stats
+| Project | Description | Tech |
+|--------|------------|------|
+| [Egyptian Society for Envirnomental Sciences Database](https://github.com/Ahmed-Hafez22/Egyptian-Society-for-Environmental-Sciences-Database.git) | A Database to store an organization members. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+| [Student Attendance System](https://github.com/Ahmed-Hafez22/Student-Attendance-System.git) | A System to track and log students attendance using barcodes connected to their IDs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
