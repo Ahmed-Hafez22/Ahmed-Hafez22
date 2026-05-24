@@ -11,7 +11,7 @@ I'm at the very beginning of my journey into data engineering. I'm currently foc
 * 🌍 Based in Egypt
 * 🧠 Interested in technology, research, and problem-solving
 * 🌱 Currently learning and growing every day
-* 🗣️ Languages: Arabic (native), English
+* 🗣️ Languages: Arabic (Native), English (B2)
 
 ---
 
@@ -25,7 +25,7 @@ I'm at the very beginning of my journey into data engineering. I'm currently foc
 
 ### 📊 Data & Research
 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-4CAF50?style=for-the-badge)
 
 ### 🧰 Tools
 
@@ -37,10 +37,9 @@ I'm at the very beginning of my journey into data engineering. I'm currently foc
 ## 🌱 Currently Learning (Data Engineering)
 
 * 📌 Python for data processing and scripting
-* 📌 SQL fundamentals (queries, joins, aggregations)
-* 📌 Data analysis basics using real datasets
-* 📌 Understanding how data flows from source to storage
-
+* 📌 Apache Airflow
+* 📌 Spark
+  
 *(Learning step by step — focusing on fundamentals before tools)*
 
 ---
@@ -51,6 +50,7 @@ Here are some of the things I’ve worked on:
 
 | Project | Description | Tech |
 |--------|------------|------|
+| [Meta-Game-Observatory](https://github.com/Ahmed-Hafez22/Meta-Game-Observatory.git) | A datawarehouse project to analyze game data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
 | [Egyptian Society for Envirnomental Sciences Database](https://github.com/Ahmed-Hafez22/Egyptian-Society-for-Environmental-Sciences-Database.git) | A Database to store an organization members. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
 | [Student Attendance System](https://github.com/Ahmed-Hafez22/Student-Attendance-System.git) | A System to track and log students' attendance using barcodes connected to their IDs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
 | [Library System](https://github.com/Ahmed-Hafez22/Library_Management_System.git) | A small Library system built on the OLTP approach | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
